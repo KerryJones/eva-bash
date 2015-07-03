@@ -1,0 +1,5 @@
+usage: eva <command> [--help]
+
+Current functions include
+	ssh	Automates command-line SSH into a server
+	md5	Creates a random md5 hash based off the date

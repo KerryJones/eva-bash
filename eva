@@ -1,0 +1,11 @@
+#!/bin/sh
+
+##
+# Eva
+#
+# Bash task automator
+#
+# Do "eva -help" for a list of commands
+##
+
+. $(dirname $0)/.eva/bootstrap.sh

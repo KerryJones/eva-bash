@@ -1,0 +1,10 @@
+[SERVER_KEY] configuration file was not found: [SERVER_CONFIG]
+
+Please create it in the following format:
+
+-----[SERVER_KEY].conf-----
+name="Sample Server"
+server=123.123.123.123
+username=jsparrow
+port=22
+private_key=C:/path/to/open-ssh-key/

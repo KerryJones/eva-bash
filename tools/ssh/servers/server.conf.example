@@ -1,0 +1,5 @@
+name="Server Name"
+server=123.123.123.123
+username=jsparrow
+port=22
+private_key=/path/to/open-ssh-private-key/
