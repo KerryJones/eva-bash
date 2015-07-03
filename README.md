@@ -1,3 +1,7 @@
 # Eva
+Version 1.0
 
-Eva is a bash task runner. S
+Eva is a bash task runner. The purpose is to automate common tasks from the a Windows/Linux shell.
+
+## Installation
+Copy the "eva" file into your bin directory.
