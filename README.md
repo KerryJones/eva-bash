@@ -9,6 +9,6 @@ Copy the "eva" file into your bin directory.
 ## Commands
 usage: eva <command> [--help]
 
-Current functions include
-	ssh	Automates command-line SSH into a server
-	md5	Creates a random md5 hash based off the date
+Current functions include  
+	ssh	Automates command-line SSH into a server  
+	md5	Creates a random md5 hash based off the date  
