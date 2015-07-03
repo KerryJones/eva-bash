@@ -5,3 +5,10 @@ Eva is a bash task runner. The purpose is to automate common tasks from the a Wi
 
 ## Installation
 Copy the "eva" file into your bin directory.
+
+## Commands
+usage: eva <command> [--help]
+
+Current functions include
+	ssh	Automates command-line SSH into a server
+	md5	Creates a random md5 hash based off the date
